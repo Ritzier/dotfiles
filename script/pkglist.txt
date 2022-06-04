@@ -27,6 +27,8 @@ ttf-font-awesome
 ttf-icomoon-feather
 ttf-liberation
 ttf-material-icons-git
+nerd-fonts-jetbrains-mono
+nerd-fonts-fira-code
 ttf-unifont
 vim
 vlc

@@ -3,15 +3,17 @@
 ```
 git clone https://github.com/ritzier/dotfiles
 cd dotfiles
-bash script/run.sh
+bash ./run.sh
 ```
 
-## Catppucin Grub Theme:
+Shell: [ZSH](https://wiki.archlinux.org/title/zsh) + [Oh-My-ZSH](https://github.com/ohmyzsh/ohmyzsh) + [Passian Theme](https://github.com/ChesterYue/ohmyzsh-theme-passion)
 
-bash script/grub.sh
+Status Bar: Polybar
+
+Neovim: [ayamir's configuration](https://github.com/ayamir/nvimdots)
 
 ## My personal setup
 
 ```
-bash script/ritzier.sh
+bash ./ritzier.sh
 ```
