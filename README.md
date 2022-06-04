@@ -1,14 +1,17 @@
-# Get Started:
+# Get started
+
 ```
-git clone https://github.com/Ritzier/dotfiles $HOME
+git clone https://github.com/ritzier/dotfiles
+cd dotfiles
+bash script/run.sh
 ```
 
-## Git SSH
-git config --global user.name "YourName"
-git config --global user.email "YourEmail@example.com"
-ssh-keygen -t rsa -b 4096 -C "YourEmail@example.com"
-### Add `cat  $HOME/.ssh/id_rsa.pub` to Github [here](https://link.zhihu.com/?target=https%3A//github.com/settings/keys)
-### Test your SSH connection:
+## Catppucin Grub Theme:
+
+bash script/grub.sh
+
+## My personal setup
+
 ```
-ssh -T git@github.com
+bash script/ritzier.sh
 ```
